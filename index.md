@@ -1,36 +1,42 @@
-## 欢迎来到Wincom官网
+<h2><center>Wincom官方网站</center></h2>
+<p><center>一个普普通通的系统团队</center></p>
+<hr>
+<li>新闻：</li>
+<p>最近Win11出来后，微软声明今后将不再开发Windows系统。华为知道后创造出了鸿蒙系统。我对Win10、11详细查看了一潘，个性化、程序稍有修改是可以创造出一个完美的系统，所以我想征求大家的同意，一起开发Wincom操作系统，这个Wincom的意思就是Windows与Web链接com组合形成的操作系统，之前我们C站学员的合作开发出了鸭信。这次，只要我们团结，也许是可以开发出我们的Wincom系统。所以我今天开始招募C站、卡塔学员、B站、其他站等合作，一起开发操作系统。不然今后可能只会有Win11了！ 
+开发组QQ群：607278011 
+​目前合作人数：10人 
+我希望大家能配合我们 
+合作工作室：彩河工作室、社区编程集团（招募ing） </p>
+<li>职位说明：</li>
+<p>系统开发成员：1000名 
+素材提供：100名 
+系统安装程序开发：50名 
+BUG解析：150名 
+体验官：5名 
+网站：10名 
+软件开发：100名 
+视频制作：5名 
+无辜/吃瓜：若干名 
+合作：100名 
+ 
+</p>
+<li>如何加入我们？</li>
+<li>开发组一群QQ群：607278011</li>
+<li>制作协议：</li>
+<p>wincom操作系统制作协议
 
-You can use the [editor on GitHub](https://github.com/xueersicoding/wincom.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这回懒得搞时间了，我问大家个问题：你们想制作新的操作系统吗？？你们可能会觉得我们实力还不够，但经过之前我们C站学员的努力下，正式的软件鸭信正式上架，代码都是我们敲的，这回Wimcom操作系统制作协议，我想了很久，微软已经决定不再制作windows系列操作系统，那未来我们用什么呢？肯定是我们成人后创作，我发现我们现在的win10系统再加把力，就可以创作一个完美的操作系统，再把一些任务栏、个性化修改一下就完全对上了未来科技的味，也许可以转入新的网络时代，我觉得光靠我是不行的，还要大家的协助，这个作品的聊天区，就是我们的交流区，志愿制作者可以加入，我的想法：桌面的图片转入任务栏，桌面就显示一些工作的，另外增加一些功能，几乎与浏览器，相当于网址，这样也许可以简便很多应用工作，这就很不错了，由于这要web和系统的联合，所以命名为wincom，希望大家理解我，未来的操作系统就靠我们了，虽然我们菜，但是人多，我就不信创作不出新的操作系统
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+希望大家理解我，毕竟未来是我们来掌控的，现在不努力未来可能只有win10系统了！！！
 
-### 招聘：欢迎加入wincom，QQ群607278011，欢迎加入！
+QQ群号：607278011
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+欢迎广大C++精通来参与活动！
 
-```markdown
-Syntax highlighted code block
-
-# 网站建设中
-## 网站建设中
-### 网站建设中
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xueersicoding/wincom.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</p>
+<div class="n-img-mask" style="width: 100%;height: 131px;">
+        <i class="iconfont icon--default-cover default-cover"></i>
+        <div class="n-img-reload" data-type="reload"></div>
+      </div>
+      <center><footer> Copyright © 2021 Wincom 团队 版权所有</footer></center>
+      
